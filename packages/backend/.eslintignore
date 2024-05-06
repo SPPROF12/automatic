@@ -1,0 +1,9 @@
+# Directories
+src/
+  components/
+  containers/
+  utils/
+  assets/
+    images/
+    styles/
+
